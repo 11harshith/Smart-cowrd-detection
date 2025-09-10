@@ -1,0 +1,6 @@
+train: C:\Users\harsh\projects\Smart Crowd Monitoring and Suspicious Behavior Detection Using Deep Learning\train.py
+val: C:\Users\harsh\projects\Smart Crowd Monitoring and Suspicious Behavior Detection Using Deep Learning\val
+
+nc: 10
+
+names: ["Assaulting","Fighting","Kidnapping","Man_With_Gun","Man_with_Knife","People","Police","Prisoner","Terrorist_With_Time_Bomb","Theaf_Robbery"]
